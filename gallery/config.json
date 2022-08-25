@@ -155,6 +155,16 @@
       "placeholder_path": "./photos/Italy/IMG_20190521_210737819_HDR~2.placeholder.jpg"
     }
   ],
+  "Random": [
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Random/IMG_20210215_160021682_BURST000_COVER.jpg",
+      "compressed_path": "./photos/Random/IMG_20210215_160021682_BURST000_COVER.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Random/IMG_20210215_160021682_BURST000_COVER.placeholder.jpg"
+    }
+  ],
   "California": [
     {
       "width": 4016,
