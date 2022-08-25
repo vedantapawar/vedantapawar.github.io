@@ -1,12 +1,208 @@
 {
-  "TravelPhotography": [
+  "Ithaca": [
     {
-      "width": 3112,
-      "height": 4149,
-      "path": "./photos/TravelPhotography/20160406-20160505DSCF2086.jpg",
-      "compressed_path": "./photos/TravelPhotography/20160406-20160505DSCF2086.min.jpg",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Ithaca/IMG_20200623_195336804.jpg",
+      "compressed_path": "./photos/Ithaca/IMG_20200623_195336804.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/TravelPhotography/20160406-20160505DSCF2086.placeholder.jpg"
+      "placeholder_path": "./photos/Ithaca/IMG_20200623_195336804.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Ithaca/IMG_20200626_195721583_BURST000_COVER.jpg",
+      "compressed_path": "./photos/Ithaca/IMG_20200626_195721583_BURST000_COVER.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ithaca/IMG_20200626_195721583_BURST000_COVER.placeholder.jpg"
+    }
+  ],
+  "Arizona": [
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Arizona/IMG_20210531_191900212_HDR.jpg",
+      "compressed_path": "./photos/Arizona/IMG_20210531_191900212_HDR.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Arizona/IMG_20210531_191900212_HDR.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Arizona/IMG_20210531_192028093_HDR.jpg",
+      "compressed_path": "./photos/Arizona/IMG_20210531_192028093_HDR.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Arizona/IMG_20210531_192028093_HDR.placeholder.jpg"
+    }
+  ],
+  "Leh": [
+    {
+      "width": 1080,
+      "height": 720,
+      "path": "./photos/Leh/IMG-20170625-WA0008.jpg",
+      "compressed_path": "./photos/Leh/IMG-20170625-WA0008.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Leh/IMG-20170625-WA0008.placeholder.jpg"
+    }
+  ],
+  "Massachussets": [
+    {
+      "width": 4080,
+      "height": 3072,
+      "path": "./photos/Massachussets/PXL_20211212_200703588.jpg",
+      "compressed_path": "./photos/Massachussets/PXL_20211212_200703588.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Massachussets/PXL_20211212_200703588.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Massachussets/IMG_20210307_165432257_HDR.jpg",
+      "compressed_path": "./photos/Massachussets/IMG_20210307_165432257_HDR.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Massachussets/IMG_20210307_165432257_HDR.placeholder.jpg"
+    },
+    {
+      "width": 4080,
+      "height": 3072,
+      "path": "./photos/Massachussets/PXL_20211212_194756030.jpg",
+      "compressed_path": "./photos/Massachussets/PXL_20211212_194756030.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Massachussets/PXL_20211212_194756030.placeholder.jpg"
+    }
+  ],
+  "Rajasthan": [
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Rajasthan/IMG_20190114_142537585_HDR.jpg",
+      "compressed_path": "./photos/Rajasthan/IMG_20190114_142537585_HDR.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Rajasthan/IMG_20190114_142537585_HDR.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Rajasthan/IMG_20190113_084025768.jpg",
+      "compressed_path": "./photos/Rajasthan/IMG_20190113_084025768.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Rajasthan/IMG_20190113_084025768.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Rajasthan/IMG_20190111_130217624.jpg",
+      "compressed_path": "./photos/Rajasthan/IMG_20190111_130217624.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Rajasthan/IMG_20190111_130217624.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Rajasthan/IMG_20190109_175651243_HDR.jpg",
+      "compressed_path": "./photos/Rajasthan/IMG_20190109_175651243_HDR.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Rajasthan/IMG_20190109_175651243_HDR.placeholder.jpg"
+    }
+  ],
+  "Italy": [
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Italy/IMG_20190521_210152790~2.jpg",
+      "compressed_path": "./photos/Italy/IMG_20190521_210152790~2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Italy/IMG_20190521_210152790~2.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Italy/IMG_20190521_211713851_BURST000_COVER~2.jpg",
+      "compressed_path": "./photos/Italy/IMG_20190521_211713851_BURST000_COVER~2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Italy/IMG_20190521_211713851_BURST000_COVER~2.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Italy/IMG_20190521_132738124_BURST000_COVER~2.jpg",
+      "compressed_path": "./photos/Italy/IMG_20190521_132738124_BURST000_COVER~2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Italy/IMG_20190521_132738124_BURST000_COVER~2.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Italy/IMG_20190527_120341137_HDR.jpg",
+      "compressed_path": "./photos/Italy/IMG_20190527_120341137_HDR.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Italy/IMG_20190527_120341137_HDR.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Italy/IMG_20190521_134139809_HDR.jpg",
+      "compressed_path": "./photos/Italy/IMG_20190521_134139809_HDR.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Italy/IMG_20190521_134139809_HDR.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Italy/IMG_20190521_210737819_HDR~2.jpg",
+      "compressed_path": "./photos/Italy/IMG_20190521_210737819_HDR~2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Italy/IMG_20190521_210737819_HDR~2.placeholder.jpg"
+    }
+  ],
+  "California": [
+    {
+      "width": 4016,
+      "height": 2252,
+      "path": "./photos/California/PXL_20220102_013738420.jpg",
+      "compressed_path": "./photos/California/PXL_20220102_013738420.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/California/PXL_20220102_013738420.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/California/PXL_20211225_025159067~2.jpg",
+      "compressed_path": "./photos/California/PXL_20211225_025159067~2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/California/PXL_20211225_025159067~2.placeholder.jpg"
+    },
+    {
+      "width": 4016,
+      "height": 2252,
+      "path": "./photos/California/PXL_20220101_234456658.jpg",
+      "compressed_path": "./photos/California/PXL_20220101_234456658.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/California/PXL_20220101_234456658.placeholder.jpg"
+    },
+    {
+      "width": 2256,
+      "height": 4016,
+      "path": "./photos/California/PXL_20220731_222345397.jpg",
+      "compressed_path": "./photos/California/PXL_20220731_222345397.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/California/PXL_20220731_222345397.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/California/PXL_20220730_015059740.jpg",
+      "compressed_path": "./photos/California/PXL_20220730_015059740.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/California/PXL_20220730_015059740.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/California/PXL_20220731_221840269.jpg",
+      "compressed_path": "./photos/California/PXL_20220731_221840269.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/California/PXL_20220731_221840269.placeholder.jpg"
     }
   ]
 }
