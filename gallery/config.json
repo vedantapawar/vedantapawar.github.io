@@ -25,14 +25,6 @@
       "compressed_path": "./photos/Arizona/IMG_20210531_191900212_HDR.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Arizona/IMG_20210531_191900212_HDR.placeholder.jpg"
-    },
-    {
-      "width": 4032,
-      "height": 3024,
-      "path": "./photos/Arizona/IMG_20210531_192028093_HDR.jpg",
-      "compressed_path": "./photos/Arizona/IMG_20210531_192028093_HDR.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Arizona/IMG_20210531_192028093_HDR.placeholder.jpg"
     }
   ],
   "Leh": [
@@ -163,6 +155,30 @@
       "compressed_path": "./photos/Random/IMG_20210215_160021682_BURST000_COVER.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Random/IMG_20210215_160021682_BURST000_COVER.placeholder.jpg"
+    },
+    {
+      "width": 2423,
+      "height": 2237,
+      "path": "./photos/Random/PXL_20220415_234600827MP.jpg",
+      "compressed_path": "./photos/Random/PXL_20220415_234600827MP.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Random/PXL_20220415_234600827MP.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Random/PXL_20220705_212631761~2.jpg",
+      "compressed_path": "./photos/Random/PXL_20220705_212631761~2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Random/PXL_20220705_212631761~2.placeholder.jpg"
+    },
+    {
+      "width": 2268,
+      "height": 4032,
+      "path": "./photos/Random/pxl.jpg",
+      "compressed_path": "./photos/Random/pxl.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Random/pxl.placeholder.jpg"
     }
   ],
   "California": [
