@@ -1,30 +1,28 @@
 {
-  "Ithaca": [
+  "Tahoe": [
     {
       "width": 4032,
-      "height": 3024,
-      "path": "./photos/Ithaca/IMG_20200623_195336804.jpg",
-      "compressed_path": "./photos/Ithaca/IMG_20200623_195336804.min.jpg",
+      "height": 2268,
+      "path": "./photos/Tahoe/PXL_20221225_201850050.jpg",
+      "compressed_path": "./photos/Tahoe/PXL_20221225_201850050.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Ithaca/IMG_20200623_195336804.placeholder.jpg"
+      "placeholder_path": "./photos/Tahoe/PXL_20221225_201850050.placeholder.jpg"
+    },
+    {
+      "width": 3725,
+      "height": 2268,
+      "path": "./photos/Tahoe/PXL_20221225_200912866.jpg",
+      "compressed_path": "./photos/Tahoe/PXL_20221225_200912866.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tahoe/PXL_20221225_200912866.placeholder.jpg"
     },
     {
       "width": 4032,
-      "height": 3024,
-      "path": "./photos/Ithaca/IMG_20200626_195721583_BURST000_COVER.jpg",
-      "compressed_path": "./photos/Ithaca/IMG_20200626_195721583_BURST000_COVER.min.jpg",
+      "height": 2268,
+      "path": "./photos/Tahoe/PXL_20221225_201216045.jpg",
+      "compressed_path": "./photos/Tahoe/PXL_20221225_201216045.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Ithaca/IMG_20200626_195721583_BURST000_COVER.placeholder.jpg"
-    }
-  ],
-  "Arizona": [
-    {
-      "width": 4032,
-      "height": 3024,
-      "path": "./photos/Arizona/IMG_20210531_191900212_HDR.jpg",
-      "compressed_path": "./photos/Arizona/IMG_20210531_191900212_HDR.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Arizona/IMG_20210531_191900212_HDR.placeholder.jpg"
+      "placeholder_path": "./photos/Tahoe/PXL_20221225_201216045.placeholder.jpg"
     }
   ],
   "Leh": [
@@ -181,6 +179,148 @@
       "placeholder_path": "./photos/Random/pxl.placeholder.jpg"
     }
   ],
+  "Greece": [
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Greece/PXL_20221016_070030815.jpg",
+      "compressed_path": "./photos/Greece/PXL_20221016_070030815.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/PXL_20221016_070030815.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Greece/PXL_20221016_073552838~2.jpg",
+      "compressed_path": "./photos/Greece/PXL_20221016_073552838~2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/PXL_20221016_073552838~2.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Greece/PXL_20221017_093042875.jpg",
+      "compressed_path": "./photos/Greece/PXL_20221017_093042875.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/PXL_20221017_093042875.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Greece/PXL_20221016_131757589~2.jpg",
+      "compressed_path": "./photos/Greece/PXL_20221016_131757589~2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/PXL_20221016_131757589~2.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Greece/PXL_20221016_065405432.jpg",
+      "compressed_path": "./photos/Greece/PXL_20221016_065405432.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/PXL_20221016_065405432.placeholder.jpg"
+    },
+    {
+      "width": 2268,
+      "height": 4032,
+      "path": "./photos/Greece/PXL_20221017_085436100.jpg",
+      "compressed_path": "./photos/Greece/PXL_20221017_085436100.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/PXL_20221017_085436100.placeholder.jpg"
+    },
+    {
+      "width": 2268,
+      "height": 4032,
+      "path": "./photos/Greece/PXL_20221016_125928936~2.jpg",
+      "compressed_path": "./photos/Greece/PXL_20221016_125928936~2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/PXL_20221016_125928936~2.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Greece/PXL_20221020_082328809.jpg",
+      "compressed_path": "./photos/Greece/PXL_20221020_082328809.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/PXL_20221020_082328809.placeholder.jpg"
+    },
+    {
+      "width": 1285,
+      "height": 2688,
+      "path": "./photos/Greece/PXL_20221015_073854088MP.jpg",
+      "compressed_path": "./photos/Greece/PXL_20221015_073854088MP.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/PXL_20221015_073854088MP.placeholder.jpg"
+    },
+    {
+      "width": 1774,
+      "height": 2827,
+      "path": "./photos/Greece/PXL_20221015_131811465.jpg",
+      "compressed_path": "./photos/Greece/PXL_20221015_131811465.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/PXL_20221015_131811465.placeholder.jpg"
+    },
+    {
+      "width": 2268,
+      "height": 4032,
+      "path": "./photos/Greece/PXL_20221015_145049324.jpg",
+      "compressed_path": "./photos/Greece/PXL_20221015_145049324.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/PXL_20221015_145049324.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Greece/PXL_20221016_164519040.jpg",
+      "compressed_path": "./photos/Greece/PXL_20221016_164519040.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/PXL_20221016_164519040.placeholder.jpg"
+    },
+    {
+      "width": 2268,
+      "height": 4032,
+      "path": "./photos/Greece/PXL_20221020_091025552.MP.jpg",
+      "compressed_path": "./photos/Greece/PXL_20221020_091025552.MP.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/PXL_20221020_091025552.MP.placeholder.jpg"
+    },
+    {
+      "width": 2268,
+      "height": 3234,
+      "path": "./photos/Greece/PXL_20221015_131549630.jpg",
+      "compressed_path": "./photos/Greece/PXL_20221015_131549630.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Greece/PXL_20221015_131549630.placeholder.jpg"
+    }
+  ],
+  "Ithaca": [
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Ithaca/IMG_20200623_195336804.jpg",
+      "compressed_path": "./photos/Ithaca/IMG_20200623_195336804.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ithaca/IMG_20200623_195336804.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Ithaca/IMG_20200626_195721583_BURST000_COVER.jpg",
+      "compressed_path": "./photos/Ithaca/IMG_20200626_195721583_BURST000_COVER.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Ithaca/IMG_20200626_195721583_BURST000_COVER.placeholder.jpg"
+    }
+  ],
+  "Arizona": [
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Arizona/IMG_20210531_191900212_HDR.jpg",
+      "compressed_path": "./photos/Arizona/IMG_20210531_191900212_HDR.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Arizona/IMG_20210531_191900212_HDR.placeholder.jpg"
+    }
+  ],
   "California": [
     {
       "width": 4016,
@@ -229,6 +369,40 @@
       "compressed_path": "./photos/California/PXL_20220731_221840269.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/California/PXL_20220731_221840269.placeholder.jpg"
+    }
+  ],
+  "Bud": [
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Bud/PXL_20221013_181835817.jpg",
+      "compressed_path": "./photos/Bud/PXL_20221013_181835817.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Bud/PXL_20221013_181835817.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Bud/PXL_20221012_103714224.MP.jpg",
+      "compressed_path": "./photos/Bud/PXL_20221012_103714224.MP.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Bud/PXL_20221012_103714224.MP.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 2268,
+      "path": "./photos/Bud/PXL_20221013_182322453.jpg",
+      "compressed_path": "./photos/Bud/PXL_20221013_182322453.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Bud/PXL_20221013_182322453.placeholder.jpg"
+    },
+    {
+      "width": 3542,
+      "height": 1857,
+      "path": "./photos/Bud/PXL_20221011_164141178.jpg",
+      "compressed_path": "./photos/Bud/PXL_20221011_164141178.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Bud/PXL_20221011_164141178.placeholder.jpg"
     }
   ]
 }
