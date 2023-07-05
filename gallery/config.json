@@ -371,38 +371,38 @@
       "placeholder_path": "./photos/California/PXL_20220731_221840269.placeholder.jpg"
     }
   ],
-  "Bud": [
+  "Budapest": [
     {
       "width": 4032,
       "height": 2268,
-      "path": "./photos/Bud/PXL_20221013_181835817.jpg",
-      "compressed_path": "./photos/Bud/PXL_20221013_181835817.min.jpg",
+      "path": "./photos/Budapest/PXL_20221013_181835817.jpg",
+      "compressed_path": "./photos/Budapest/PXL_20221013_181835817.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Bud/PXL_20221013_181835817.placeholder.jpg"
+      "placeholder_path": "./photos/Budapest/PXL_20221013_181835817.placeholder.jpg"
     },
     {
       "width": 4032,
       "height": 2268,
-      "path": "./photos/Bud/PXL_20221012_103714224.MP.jpg",
-      "compressed_path": "./photos/Bud/PXL_20221012_103714224.MP.min.jpg",
+      "path": "./photos/Budapest/PXL_20221012_103714224.MP.jpg",
+      "compressed_path": "./photos/Budapest/PXL_20221012_103714224.MP.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Bud/PXL_20221012_103714224.MP.placeholder.jpg"
+      "placeholder_path": "./photos/Budapest/PXL_20221012_103714224.MP.placeholder.jpg"
     },
     {
       "width": 4032,
       "height": 2268,
-      "path": "./photos/Bud/PXL_20221013_182322453.jpg",
-      "compressed_path": "./photos/Bud/PXL_20221013_182322453.min.jpg",
+      "path": "./photos/Budapest/PXL_20221013_182322453.jpg",
+      "compressed_path": "./photos/Budapest/PXL_20221013_182322453.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Bud/PXL_20221013_182322453.placeholder.jpg"
+      "placeholder_path": "./photos/Budapest/PXL_20221013_182322453.placeholder.jpg"
     },
     {
       "width": 3542,
       "height": 1857,
-      "path": "./photos/Bud/PXL_20221011_164141178.jpg",
-      "compressed_path": "./photos/Bud/PXL_20221011_164141178.min.jpg",
+      "path": "./photos/Budapest/PXL_20221011_164141178.jpg",
+      "compressed_path": "./photos/Budapest/PXL_20221011_164141178.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Bud/PXL_20221011_164141178.placeholder.jpg"
+      "placeholder_path": "./photos/Budapest/PXL_20221011_164141178.placeholder.jpg"
     }
   ]
 }
